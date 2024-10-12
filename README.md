@@ -24,23 +24,26 @@ Currently, I'm open to new job opportunities where I can leverage my expertise t
 - **Container Orchestration**: Kubernetes, Docker, Helm
 - **Infrastructure Automation**: Terraform, Ansible
 - **System Administration**: Linux, Windows Server
-- **Programming Languages**: Python, Java, SpringBoot, C#, JavaScript, Golang, Bash, ShellScript
-- **Development & Collaboration Tools**: GitLab, Bitbucket, Azure DevOps
+- **Programming Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## 📱 Social Media:
-- [LinkedIn](https://linkedin.com/in/thiagorpapntoja)
-- [Twitter](https://twitter.com/euthiagorpantoja)
-- [Facebook](https://facebook.com/thiagorpantoja)
-- [Instagram](https://instagram.com/euthiagorpantoja)
-- [TikTok](https://tiktok.com/@euthiagorpantoja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagorpapntoja)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/euthiagorpantoja)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thiagorpantoja)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/euthiagorpantoja)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@euthiagorpantoja)
 
 Feel free to connect with me or reach out for exciting collaborations or opportunities!
 
 ---
 
 **Let's create the future together!**
-
-<!---
-thiagorodriguespantojas/thiagorodriguespantojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
