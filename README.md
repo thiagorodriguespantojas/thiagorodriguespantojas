@@ -7,7 +7,7 @@ My technical focus includes **AWS**, **Kubernetes**, **Docker**, **Terraform**, 
 Currently, I'm open to new job opportunities where I can leverage my expertise to drive digital transformation, cloud infrastructure automation, and scalable solutions.
 
 ## 🌟 Professional Achievements:
-- **Scalable Infrastructure Development**: At Enkel TI, I developed and managed robust infrastructures using **AWS**, **Docker**, and **Kubernetes**, reducing implementation time by 30% and boosting system availability to 99.9%.
+- **Scalable Infrastructure Development**: At Enkel TI, I developed and managed robust infrastructures using **AWS**, **Docker**, and **Kubernetes**, reducing implementation time by 60% and boosting system availability to 99.9%.
 - **Infrastructure as Code (IaC) Automation**: Extensive experience automating complex environments using **AWS CloudFormation**, **Terraform**, and **Ansible**, ensuring high availability, resilience, and optimized deployment processes.
 - **Container Orchestration**: Expertise in **Kubernetes**, **Docker**, and **Helm**, enabling efficient container orchestration and package management essential for cloud-native applications.
 - **Agile Methodologies & CI/CD Pipelines**: Proven ability to implement agile methodologies and **CI/CD** pipelines for continuous, reliable, and efficient software delivery.
