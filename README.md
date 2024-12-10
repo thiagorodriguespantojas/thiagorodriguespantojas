@@ -1,6 +1,6 @@
 # Hello Everyone 👋
 
-I am **Thiago Pantoja**, a **DevOps Engineer, CloudOps Specialist, Architect, and Developer** passionate about solving complex problems with innovative solutions. With over 12 years of experience in the tech industry, I specialize in **GitOps**, **APM**, and **cloud technologies**. I am always eager to learn, share knowledge, and contribute to the open-source community.
+I am **Thiago Pantoja**, a **DevOps Engineer, CloudOps Specialist, Architect, and Developer** passionate about solving complex problems with innovative solutions. With over 18 years of experience in the tech industry, I specialize in **GitOps**, **APM**, and **cloud technologies**. I am always eager to learn, share knowledge, and contribute to the open-source community.
 
 My technical focus includes **AWS**, **Kubernetes**, **Docker**, **Terraform**, **Ansible**, and **CI/CD pipelines**. I'm also a creative design enthusiast and enjoy **Web Development** and **Social Media**.
 
