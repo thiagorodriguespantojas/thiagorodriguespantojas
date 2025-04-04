@@ -1,49 +1,87 @@
-# Hello Everyone 👋
+# 👋 Hello, I'm Thiago Pantoja
 
-I am **Thiago Pantoja**, a **DevOps Engineer, CloudOps Specialist, Architect, and Developer** passionate about solving complex problems with innovative solutions. With over 18 years of experience in the tech industry, I specialize in **GitOps**, **APM**, and **cloud technologies**. I am always eager to learn, share knowledge, and contribute to the open-source community.
+I'm a **Senior Cloud & DevOps Architect** with over **18 years of experience** driving complex technology transformations across enterprise environments. I specialize in designing and automating **scalable, resilient, and secure infrastructures** using modern cloud-native technologies and best DevOps practices.
 
-My technical focus includes **AWS**, **Kubernetes**, **Docker**, **Terraform**, **Ansible**, and **CI/CD pipelines**. I'm also a creative design enthusiast and enjoy **Web Development** and **Social Media**.
+With a deep focus on **GitOps, APM, Observability, and CI/CD**, I’m passionate about creating impactful solutions that improve delivery velocity, ensure system reliability, and align with business goals. I thrive in collaborative environments, enjoy mentoring teams, and constantly contribute to open-source and knowledge-sharing initiatives.
 
-Currently, I'm open to new job opportunities where I can leverage my expertise to drive digital transformation, cloud infrastructure automation, and scalable solutions.
+I’m currently open to **leadership and strategic engineering opportunities** where I can add value by enabling **digital transformation**, accelerating **DevOps maturity**, and optimizing **cloud infrastructure operations**.
 
-## 🌟 Professional Achievements:
-- **Scalable Infrastructure Development**: At Enkel TI, I developed and managed robust infrastructures using **AWS**, **Docker**, and **Kubernetes**, reducing implementation time by 60% and boosting system availability to 99.9%.
-- **Infrastructure as Code (IaC) Automation**: Extensive experience automating complex environments using **AWS CloudFormation**, **Terraform**, and **Ansible**, ensuring high availability, resilience, and optimized deployment processes.
-- **Container Orchestration**: Expertise in **Kubernetes**, **Docker**, and **Helm**, enabling efficient container orchestration and package management essential for cloud-native applications.
-- **Agile Methodologies & CI/CD Pipelines**: Proven ability to implement agile methodologies and **CI/CD** pipelines for continuous, reliable, and efficient software delivery.
-- **Resource Monitoring & Performance Management**: Proficient in using **Amazon CloudWatch** and other monitoring tools to ensure optimal system performance and high availability for enterprise-level applications.
+---
 
-## 💼 Certifications & Technical Skills:
-- **AWS Cloud Practitioner**
-- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
-- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+## 🌟 Key Achievements & Impact
 
-## 🛠️ Technical Proficiencies:
-- **Cloud Solutions**: AWS, Oracle Cloud, Azure, GCP
-- **Container Orchestration**: Kubernetes, Docker, Helm
-- **Infrastructure Automation**: Terraform, Ansible
-- **System Administration**: Linux, Windows Server
-- **Programming Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+- 🏗️ **Architected scalable infrastructures** using AWS, Kubernetes, and Docker, reducing provisioning time by 60% and achieving 99.9% system uptime at Enkel TI.
+- ⚙️ **Automated multi-cloud deployments** with Terraform, Ansible, and CloudFormation — cutting manual intervention and ensuring consistency across environments.
+- 🚀 **Accelerated release cycles** by implementing robust CI/CD pipelines aligned with agile practices, increasing delivery speed and reducing production bugs.
+- 🔍 **Enhanced observability and reliability** by deploying monitoring stacks with CloudWatch, Prometheus, and New Relic, reducing MTTR by over 40%.
+- 📦 **Led container orchestration initiatives** using Kubernetes and Helm, improving service scalability and microservice management.
+- 🤝 **Collaborated with cross-functional teams** to drive DevOps culture, mentor engineers, and align tech operations with strategic business goals.
 
-## 📱 Social Media:
+---
+
+## 🎓 Certifications
+
+- ✅ **AWS Certified Cloud Practitioner**
+- ✅ **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
+- ✅ **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- ✅ **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+
+---
+
+## 🛠️ Technical Stack
+
+### ☁️ Cloud Platforms
+- AWS (EC2, ECS, S3, RDS, Lambda, CloudWatch, IAM)
+- Oracle Cloud Infrastructure (OCI)
+- Microsoft Azure (IaaS, PaaS)
+- Google Cloud Platform (GCP)
+
+### 📦 Containers & Orchestration
+- Docker, Kubernetes (EKS, AKS, GKE), Helm
+
+### 🧱 Infrastructure as Code & Automation
+- Terraform, Ansible, AWS CloudFormation, Shell Scripting
+
+### 📈 Monitoring & Observability
+- Amazon CloudWatch, Prometheus, Grafana, New Relic, Datadog
+
+### 🔐 Security & Compliance
+- IAM, TLS 1.3, OAuth2, SSO, Secrets Management, LGPD Compliance
+
+### 💻 Operating Systems & Administration
+- Linux (Ubuntu, CentOS, Debian), Windows Server
+
+### 🚀 CI/CD & DevOps
+- GitHub Actions, GitLab CI, Bitbucket Pipelines, Azure DevOps, Bamboo
+
+### 💬 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+## 📢 Social Presence
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagorpapntoja)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagorodriguespantoja)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/othiagorpantoja)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thiagorpantoja)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/euthiagorpantoja)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@euthiagorpantoja)
 
-Feel free to connect with me or reach out for exciting collaborations or opportunities!
+---
+
+## 📬 Let’s Connect
+
+I’m always open to exploring exciting projects and collaborating with visionary teams.  
+Let’s build **future-proof, high-performance, and resilient systems** — together.
 
 ---
 
-**Let's create the future together!**
