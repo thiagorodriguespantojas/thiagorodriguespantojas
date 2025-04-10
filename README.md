@@ -4,7 +4,7 @@ I'm a **Senior Cloud & DevOps Architect** with over **18 years of experience** d
 
 With a deep focus on **GitOps, APM, Observability, and CI/CD**, I’m passionate about creating impactful solutions that improve delivery velocity, ensure system reliability, and align with business goals. I thrive in collaborative environments, enjoy mentoring teams, and constantly contribute to open-source and knowledge-sharing initiatives.
 
-I’m currently open to **leadership and strategic engineering opportunities** where I can add value by enabling **digital transformation**, accelerating **DevOps maturity**, and optimizing **cloud infrastructure operations**.
+I’m currently open to **leadership and strategic engineering opportunities** where I can add value by enabling **digital transformation**, accelerating **DevOps maturity**, e otimizando **operações em nuvem de alto desempenho**.
 
 ---
 
@@ -37,22 +37,22 @@ I’m currently open to **leadership and strategic engineering opportunities** w
 - Google Cloud Platform (GCP)
 
 ### 📦 Containers & Orchestration
-- Docker, Kubernetes (EKS, AKS, GKE), Helm
+- Docker, Kubernetes (EKS, AKS, GKE, OKE), Helm
 
 ### 🧱 Infrastructure as Code & Automation
-- Terraform, Ansible, AWS CloudFormation, Shell Scripting
+- Terraform, Ansible, AWS CloudFormation, Shell Script, GitOps
 
 ### 📈 Monitoring & Observability
 - Amazon CloudWatch, Prometheus, Grafana, New Relic, Datadog
 
 ### 🔐 Security & Compliance
-- IAM, TLS 1.3, OAuth2, SSO, Secrets Management, LGPD Compliance
+- IAM, TLS 1.3, OAuth2, SSO, Secrets Management, LGPD Compliance, Resilience by Design
 
 ### 💻 Operating Systems & Administration
 - Linux (Ubuntu, CentOS, Debian), Windows Server
 
-### 🚀 CI/CD & DevOps
-- GitHub Actions, GitLab CI, Bitbucket Pipelines, Azure DevOps, Bamboo
+### 🚀 CI/CD & DevOps Engineering
+- GitHub Actions, GitLab CI, Bitbucket Pipelines, Azure DevOps, Atlassian Bamboo, Jenkins, Nexus, SonarQube
 
 ### 💬 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -84,4 +84,3 @@ I’m always open to exploring exciting projects and collaborating with visionar
 Let’s build **future-proof, high-performance, and resilient systems** — together.
 
 ---
-
